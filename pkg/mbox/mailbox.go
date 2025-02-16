@@ -15,7 +15,7 @@ import (
 	"os"
 	"unsafe"
 
-	"github.com/cavaliercoder/rpi_export/pkg/ioctl"
+	"github.com/embik/rpi_export/pkg/ioctl"
 )
 
 const (

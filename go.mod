@@ -1,3 +1,3 @@
-module github.com/cavaliercoder/rpi_export
+module github.com/embik/rpi_export
 
-go 1.15
+go 1.23

@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/cavaliercoder/rpi_export/pkg/mbox"
+	"github.com/embik/rpi_export/pkg/mbox"
 )
 
 const (
