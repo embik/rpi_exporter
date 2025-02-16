@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/embik/rpi_export/pkg/mbox"
+	"github.com/embik/rpi_exporter/pkg/mbox"
 )
 
 const (

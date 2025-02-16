@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/embik/rpi_export/pkg/export/prometheus"
-	"github.com/embik/rpi_export/pkg/mbox"
+	"github.com/embik/rpi_exporter/pkg/export/prometheus"
+	"github.com/embik/rpi_exporter/pkg/mbox"
 )
 
 var (

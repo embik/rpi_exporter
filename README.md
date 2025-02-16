@@ -1,5 +1,7 @@
 # rpi_exporter
 
+This is a fork of [cavaliercoder/rpi_export](https://github.com/cavaliercoder/rpi_export).
+
 A lightweight Prometheus exporter for Raspberry Pi hardware metrics.
 
 Currently supports the following metrics from the VideoCore System-on-Chip:
